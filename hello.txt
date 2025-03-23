@@ -14,3 +14,4 @@ hello world! master_test
 hello world! hot_fix test
 hello world!
 远程修改拉取到本地
+通过ssh方式推送拉取
